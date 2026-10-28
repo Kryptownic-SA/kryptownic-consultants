@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kryptownic.co.za/sitemap.xml
+
+# Crawl-delay for well-behaved crawlers
+Crawl-delay: 10
+
+# Disallow sensitive paths
+Disallow: /assets/js/app.js
+Disallow: /service-worker.js
